@@ -1,2 +1,2 @@
-# nlp_specialization
-This repo contains curated list of books, references, workbooks on NLP
+# NLP_specialization
+This repo contains a curated list of books, references, and workbooks on NLP
